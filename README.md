@@ -11,5 +11,5 @@ I'm a studant of Web Developer. I'm studying at [Rocketseat](https://rocketseat.
 - 🔨 Tools: 'VsCode
 
 #### Contacts:
-- 📝 Email: thiagofelip@live.com
-- 📝 Linkedin: https://www.linkedin.com/in/thiagofsoliveira/
+- 📧 Email: thiagofelip@live.com
+- 💻 Linkedin: https://www.linkedin.com/in/thiagofsoliveira/
