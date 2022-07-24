@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Thiago Oliveira 👋
 
-<!--
-**Thiagofelip/Thiagofelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a studant of Web Developer. I'm studying at [Rocketseat](https://rocketseat.com.br
 
-Here are some ideas to get you started:
+#### Current Stacks
+- ⚡️ Main language: 'JavaScript'
+- 🎉 Frontend: 'HTML5', 'CSS3', 'JavaScript'
+- 🎨 Layout Design: 'Figma'
+- 📦️ Version code control: 'Git & Github'
+- 🔨 Tools: 'VsCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts:
+- 📝 Email: thiagofelip@live.com
+- 📝 Linkedin: https://www.linkedin.com/in/thiagofsoliveira/
