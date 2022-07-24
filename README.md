@@ -1,7 +1,7 @@
 ### Hi there, I'm Thiago Oliveira 👋
 
 #### About
-I'm a studant of Web Developer. I'm studying at [Rocketseat](https://rocketseat.com.br
+I'm a studant of Web Developer. I'm studying at [Rocketseat](https://rocketseat.com.br/)
 
 #### Current Stacks
 - ⚡️ Main language: 'JavaScript'
